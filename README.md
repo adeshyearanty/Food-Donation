@@ -1,5 +1,5 @@
 # Food Donation Web Page
-<span>created using 
-Client: HTML, CSS, JavaScript, and ReactJS framework
-Server: NodeJS, ExpressJS
-DataBase: MongoDB</span>
+<p>created using </p>
+<p>Client: HTML, CSS, JavaScript, and ReactJS framework</p>
+<p>Server: NodeJS, ExpressJS</p>
+<p>DataBase: MongoDB</p>
